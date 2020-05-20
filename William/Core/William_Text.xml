@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WILLEM_NAME" Language="en_US">
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_NAME" Language="en_US">
 			<Text>Dutch East Indian Company</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WILLEM_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_DESCRIPTION" Language="en_US">
 			<Text>Your [ICON_TradeRoute] International Trade routes provide +2 [ICON_FOOD] Food, +2 [ICON_SCIENCE] Science, and +2 [ICON_CULTURE] Culture. Other Civs' [ICON_TradeRoute] Trade Routes to you provide them with +2 [ICON_PRODUCTION] Production and +2 [ICON_GOLD] Gold for you. +1 Bonus [ICON_TradeRoute] Trade Route capacity.</Text>
 		</Row>
 
@@ -12,27 +12,27 @@
 
 
 
-		<Row Tag="LOC_LEADER_GEDEMO_WILLEM" Language="en_US">
-			<Text>Willem van Oranje</Text>
+		<Row Tag="LOC_LEADER_WILLIAM_OF_ORANGE" Language="en_US">
+			<Text>William of Orange</Text>
 		</Row>
 
-		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_WILLEM" Language="en_US">
+		<Row Tag="LOC_LOADING_INFO_LEADER_WILLIAM_OF_ORANGE" Language="en_US">
 			<Text>Hail stalwart Prince William of Orange, liberator of the Netherlands and hero to the Dutch people. It was your courageous effort in the 1568 rebellion against Spanish dominion that led the Dutch to freedom, and ultimately resulted in the Eighty Years' War. Your undertaking allowed for the creation of one of Europe's first modern republics, the Seven United Provinces. You gave your life to the rebellion, falling at the hands of an assassin in 1584, but your death would only serve to embolden the people's charge, and your legacy as "Father of the Fatherland" will stand as a symbol of Dutch independence for all time.[NEWLINE][NEWLINE]Brave prince, the people again yearn for the wise stewardship your wisdom afforded them. Can you once again secure the sovereignty of your kingdom and lead your people to greatness? Can you build a civilization that stands the test of time?</Text>
 		</Row>
 		<!--Civilopedia-->
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_TITLE" Language="en_US">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_TITLE" Language="en_US">
 			<Text>Prince of Orange</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_SUBTITLE" Language="en_US">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_SUBTITLE" Language="en_US">
 			<Text>Stadtholder of the provinces of Holland, Zeeland and Utrecht.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_QUOTE" Language="en_US">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_QUOTE" Language="en_US">
 			<Text>Mijn God, mijn God, heb medelijden met mijn ziel en met dit arme volk!</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
 			<Text>William I, Prince of Orange (24 April 1533 â€“ 10 July 1584), also widely known as William the Silent or William the Taciturn (translated from Dutch: Willem de Zwijger), or more commonly known as William of Orange (Dutch: Willem van Oranje), was the main leader of the Dutch revolt against the Spanish Habsburgs that set off the Eighty Years' War (1568â€“1648) and resulted in the formal independence of the United Provinces in 1581. He was born in the House of Nassau as Count of Nassau-Dillenburg. He became Prince of Orange in 1544 and is thereby the founder of the branch House of Orange-Nassau and the ancestor of the monarchy of the Netherlands. Within the Netherlands he is also known as Father of the Fatherland. (Dutch: Vader des Vaderlands).</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_2" Language="en_US">
 			<Text>A wealthy nobleman, William originally served the Habsburgs as a member of the court of Margaret of Parma, governor of the Spanish Netherlands. Unhappy with the centralisation of political power away from the local estates and with the Spanish persecution of Dutch Protestants, William joined the Dutch uprising and turned against his former masters. The most influential and politically capable of the rebels, he led the Dutch to several successes in the fight against the Spanish. Declared an outlaw by the Spanish king in 1580, he was assassinated by Balthasar GÃ©rard (also written as "Gerardts") in Delft in 1584.</Text>
 		</Row>
 
@@ -40,147 +40,147 @@
 		<!--Diplomacy-->
 		<!--FIRST MEET-->
 		<!--First AI line-->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Welcome to the court of William of Orange, father of the Netherlands.  Don't just stand there ... what do you want?</Text>
 		</Row>
 		<!--AI invitation to visit nearby City-->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>What business do you have in the Netherlands - I am William of Orange, its sovereign ruler.</Text>
 		</Row>
 		<!--AI accepts Human invitation-->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Thank you, friend.</Text>
 		</Row>
 		<!--AI invitation to exchange Capital Information-->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>I am William of Orange, of the Netherlands.  Did you need something? I'm quite busy.</Text>
 		</Row>
 		<!--GREETINGS-->
-		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Until we meet again.</Text>
 		</Row>
 		<!--DELEGATION-->
 		<!--AI Accepts-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>You are too kind, my friend. Your gifts arrived with your trade delegation, and I have personally thanked them.</Text>
 		</Row>
 		<!--AI Rejects-->
-		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Unfortunately, no.</Text>
 		</Row>
 		<!--AI Requests -->
-		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>I have sent a trade delegation to you with gifts from our land: tulips, little mills, and something to smoke.</Text>
 		</Row>
 		<!--OPEN BORDERS-->
 		<!--AI accepts from human-->
-		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>We are happy to open up our borders to your units.</Text>
 		</Row>
 		<!--AI rejects from human-->
-		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>We are not interested at this time.</Text>
 		</Row>
 		<!--AI requests from human-->
-		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Will you allow our units to cross through your territory?</Text>
 		</Row>
 		<!--DECLARE FRIENDSHIP-->
 		<!--AI accepts from human-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>I accept your offer of friendship. I believe both our peoples may stand to profit from this arrangement.</Text>
 		</Row>
 		<!--AI Rejects from human -->
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Not this time, friend.  We have our own troubles to deal with.</Text>
 		</Row>
 		<!--AI Requests friendship from human-->
-		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Come, I believe I have something which will interest you.</Text>
 		</Row>
 		<!--Human accepts AI requests, AI responds-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Thank you, friend.</Text>
 		</Row>
 		<!--Human rejects AI requests, AI responds-->
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>... You were serious?</Text>
 		</Row>
 		<!--ALLIANCE-->
 		<!--AI Requests an alliance from human-->
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Would you like to form an alliance?</Text>
 		</Row>
 		<!--KUDOS & WARNINGS-->
 		<!--AI Kudos-->
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>It is sometimes useful to have a strong economy.</Text>
 		</Row>
 		<!--AI Warnings-->
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Your management is calamitous.</Text>
 		</Row>
 		<!--AI warns player for border troops-->
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Please, friend, move your soldiers from my borders. They spoil our merchants.</Text>
 		</Row>
 		<!--TRADE-->
 		<!--AI Accepts Deal-->
-		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
-			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY}</Text>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
 		</Row>
 		<!--AI Rejects Deal-->
-		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
-			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY}</Text>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
 		</Row>
 		<!--DENOUNCE-->
 		<!--From Human-->
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>You are beginning to remind me of my second wife, and she was quite mad ...</Text>
 		</Row>
 		<!--From AI-->
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>I'm beginning to suspect this is some plot to neutralize me. Go away!. (Denounces You).</Text>
 		</Row>
 		<!--DECLARE WAR-->
 		<!--Human Declares War-->
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>You have proven yourself an unfit ruler, and I can bear the cries of your people no longer.  They will be liberated from your tyranny.</Text>
 		</Row>
 		<!--AI Declares War-->
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>As much as I hate war, I consider purging your existence a form of community service.</Text>
 		</Row>
 		<!--MAKE PEACE-->
 		<!--AI accepts from human-->
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Yes, yes. That is a good thing.</Text>
 		</Row>
 		<!--AI refuses human-->
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Sorry, but no.</Text>
 		</Row>
 		<!--AI requests from human-->
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>You know what you have done, which has led us to this ... unfortunate turn of events.</Text>
 		</Row>
 		<!--DEFEAT-->
 		<!--AI is Defeated-->
-		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
 			<Text>Curse you! I had hoped to deliver my people from all foreign yokes, but it seems they shall continue to suffer under yours.</Text>
 		</Row>
 		<!--Human is Defeated (will see this in hotseat)-->
-		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="en_US">
-			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WILLEM_ANY]</Text>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY]</Text>
 		</Row>
 
 
 
 
-		<Row Tag="LOC_AGENDA_GEDEMO_WILLEM_NAME" Language="en_US">
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_NAME" Language="en_US">
 			<Text>Vader des Vaderlands</Text>
 		</Row>
-		<Row Tag="LOC_AGENDA_GEDEMO_WILLEM_DESCRIPTION" Language="en_US">
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_DESCRIPTION" Language="en_US">
 			<Text>Tries to maximize [ICON_TradeRoute] Trade Routes. Likes civilizations that trade with her, dislikes those who do not.</Text>
 		</Row>
 
@@ -198,13 +198,13 @@
 
 
 
-		<Row Tag="LOC_AGENDA_GEDEMO_WILLEM_NAME" Language="fr_FR">
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_NAME" Language="fr_FR">
 			<Text>Vader des Vaderlands</Text>
 		</Row>
 
 
 
-		<Row Tag="LOC_AGENDA_GEDEMO_WILLEM_DESCRIPTION" Language="fr_FR">
+		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_DESCRIPTION" Language="fr_FR">
 			<Text>Cherche Ã  optimiser les [ICON_TradeRoute] Routes Commerciales. ApprÃ©cie les civilisations qui Ã©changent avec elle. N'apprÃ©cie pas celles ne souhaitant pas faire de commerce.</Text>
 		</Row>
 
@@ -213,10 +213,10 @@
 
 
 
-		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WILLEM_NAME"  Language="fr_FR" >
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_NAME"  Language="fr_FR" >
 			<Text>Compagnie des Indes Orientales</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_GEDEMO_WILLEM_DESCRIPTION"  Language="fr_FR" >
+		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_DESCRIPTION"  Language="fr_FR" >
 			<Text>Vos [ICON_TradeRoute] Routes Commerciales internationales fournissent +2 [ICON_FOOD] Nourriture, +2 [ICON_SCIENCE] Science, et +2 [ICON_CULTURE] Culture. Les [ICON_TradeRoute] Routes Commerciales des autres civilizations vous fournissent +2 [ICON_GOLD] Or et leur fournissent +2 [ICON_PRODUCTION] Production. +1 capacitÃ© pour [ICON_TradeRoute] Route Commerciale.</Text>
 		</Row>
 
@@ -226,166 +226,166 @@
 
 
 
-		<Row Tag="LOC_LEADER_GEDEMO_WILLEM" Language="fr_FR">
-			<Text>Willem van Oranje</Text>
+		<Row Tag="LOC_LEADER_WILLIAM_OF_ORANGE" Language="fr_FR">
+			<Text>William of Orange</Text>
 		</Row>
 
-		<Row Tag="LOC_LOADING_INFO_LEADER_GEDEMO_WILLEM" Language="fr_FR">
+		<Row Tag="LOC_LOADING_INFO_LEADER_WILLIAM_OF_ORANGE" Language="fr_FR">
 			<Text>Mes respects, prince Guillaume Ier d'Orange, libÃ©rateur des Pays-Bas et hÃ©ros du peuple nÃ©erlandais. C'est par vos efforts courageux lors de la rÃ©volte de 1568 contre l'oppresseur espagnol que vous avez offert la libertÃ© Ã  votre pays, au terme de la guerre de Quatre-Vingts Ans qui s'en suivit. Votre dÃ©termination a donnÃ© naissance Ã  l'une des premiÃ¨res rÃ©publiques modernes d'Europe, les sept provinces unies. Vous avez donnÃ© votre vie Ã  la rÃ©bellion, avant de tomber victime d'un assassin en 1584, mais votre mort ne fit qu'encourager votre peuple dans la voie que vous lui aviez tracÃ©e, et votre hÃ©ritage, en tant que "pÃ¨re de la patrie", restera Ã  jamais synonyme de l'indÃ©pendance nÃ©erlandaise. [NEWLINE][NEWLINE]Courageux prince, votre peuple souhaiterait une fois de plus pouvoir confier son avenir Ã  votre sagesse. Parviendrez-vous Ã  assurer la souverainetÃ© de votre royaume et Ã  mener votre peuple Ã  la gloireÂ ? BÃ¢tirez-vous une civilisation capable de rÃ©sister au passage du tempsÂ ?</Text>
 		</Row>
 
 		<!--Civilopedia french-->
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_TITLE" Language="fr_FR">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_TITLE" Language="fr_FR">
 			<Text>Prince d'Orange</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_SUBTITLE" Language="fr_FR">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_SUBTITLE" Language="fr_FR">
 			<Text>Comte de Nassau, de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de ZÃ©lande, de Frise occidentale et d'Utrecht.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_QUOTE" Language="fr_FR">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_QUOTE" Language="fr_FR">
 			<Text>Mon Dieu, mon dieu, ayez pitiÃ© de mon Ã¢me et de ce pauvre peuple!</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
 			<Text>Guillaume de Nassau, prince d'Orange (en nÃ©erlandais : Willem van Oranje), comte de Nassau, dit Ã©galement Guillaume le Taciturne (Willem de Zwijger) est nÃ© le 24 avril 1533 Ã  Dillenburg et mort au Prinsenhof de Delft le 10 juillet 1584, assassinÃ© par Balthazar GÃ©rard. Sa dÃ©pouille repose dans la Nieuwe Kerk de Delft. Il fut prince d'Orange, comte de Nassau Ã  partir de 1544, puis de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de ZÃ©lande, de Frise occidentale et d'Utrecht Ã  partir de 1559, gouvernant un territoire partagÃ© actuellement entre la Belgique et les Pays-Bas.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GEDEMO_WILLEM_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
 			<Text>Ã€ l'origine membre de l'entourage de Charles Quint et fidÃ¨le partisan des Habsbourg, Guillaume d'Orange est surtout connu pour avoir Ã©tÃ© l'initiateur et le chef de la rÃ©volte des Pays-Bas espagnols contre le roi d'Espagne Philippe II, fils de Charles Quint. Cette rÃ©volte entraÃ®na une volontÃ© d'Ã©mancipation des Ã‰tats gÃ©nÃ©raux (gouvernement) qui conduisit Ã  l'indÃ©pendance des Pays-Bas du Nord, Provinces-Unies, alors que les Pays-Bas du Sud, la Belgica Regia, retombaient sous la domination espagnole aprÃ¨s la guerre de Quatre-Vingts Ans.</Text>
 		</Row>
 
 		<!--Diplomacy french-->
 		<!--FIRST MEET french-->
 		<!--First AI line french-->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Je suis Guillaume d'Orange, prince des Pays-Bas. Vous aviez besoin de quelque chose ? Je suis assez occupÃ©.</Text>
 		</Row>
 		<!--AI invitation to visit nearby City french-->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Bienvenue Ã  la cour de Guillaume d'Orange, pÃ¨re des Pays-Bas. Ne restez pas lÃ  les bras ballants... Que voulez-vousÂ ?</Text>
 		</Row>
 		<!--AI accepts Human invitation french-->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Je vous remercie.</Text>
 		</Row>
 		<!--AI invitation to exchange Capital Information french -->
-		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>J'aime voyager et je visiterai peut-Ãªtre un jour votre capitale. Est-elle loin d'iciÂ ? Que pouvez-vous m'en direÂ ?</Text>
 		</Row>
 		<!--GREETINGS french-->
-		<Row Tag="LOC_DIPLO_GREETING_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Que faites-vous au juste aux Pays-Bas ? Je suis Guillaume d'Orange, le souverain.</Text>
 		</Row>
 		<!--DELEGATION french-->
 		<!--AI Accepts french-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>C'est trop aimable. Vos prÃ©sents sont arrivÃ©s avec votre dÃ©lÃ©gation, je les ai personnellement remerciÃ©s.</Text>
 		</Row>
 		<!--AI Rejects french-->
-		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Non, malheureusement.</Text>
 		</Row>
 		<!--AI Requests french-->
-		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Je vous envoie une dÃ©lÃ©gation commerciale avec des cadeaux de mon paysÂ : des tulipes, des petits moulins et de quoi fumer.</Text>
 		</Row>
 		<!--OPEN BORDERS french-->
 		<!--AI accepts from human french-->
-		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>C'est avec plaisir que nous ouvrons nos frontiÃ¨res Ã  vos unitÃ©s.</Text>
 		</Row>
 		<!--AI rejects from human french-->
-		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Nous ne sommes pas intÃ©ressÃ©s pour l'instant.</Text>
 		</Row>
 		<!--AI requests from human french-->
-		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Permettrez-vous Ã  nos unitÃ©s de traverser votre territoire?</Text>
 		</Row>
 		<!--DECLARE FRIENDSHIP french-->
 		<!--AI accepts from human french-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>J'accepte votre offre d'amitiÃ©.</Text>
 		</Row>
 		<!--AI Rejects from human french-->
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Pas cette fois. Nous avons nous aussi des choses qui nous prÃ©occupent.</Text>
 		</Row>
 		<!--AI Requests friendship from human french-->
-		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Je pense que nos deux peuples pourraient tirer profit de cet arrangement. Acceptez-vous mon amitiÃ©Â ?</Text>
 		</Row>
 		<!--Human accepts AI requests, AI responds french-->
-		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Je vous remercie.</Text>
 		</Row>
 		<!--Human rejects AI requests, AI responds french-->
-		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>C'est malencontreux.</Text>
 		</Row>
 		<!--ALLIANCE-->
 		<!--AI Requests an alliance from human french-->
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Aimeriez-vous former une alliance?</Text>
 		</Row>
 		<!--KUDOS & WARNINGS french-->
 		<!--AI Kudos-->
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Une Ã©conomie florissante? Cela peut toujours servir figurez-vous!</Text>
 		</Row>
 		<!--AI Warnings french-->
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Vous semblez connaÃ®tre quelques difficultÃ©s, non?</Text>
 		</Row>
 		<!--AI warns player for border troops french-->
-		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Veuillez retirer vos troupes de mes frontiÃ¨res. Elles empÃ¨chent nos marchands de circuler.</Text>
 		</Row>
 		<!--TRADE french-->
 		<!--AI Accepts Deal french-->
-		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
-			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY}</Text>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
 		</Row>
 		<!--AI Rejects Deal french-->
-		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
-			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GEDEMO_WILLEM_ANY}</Text>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY}</Text>
 		</Row>
 		<!--DENOUNCE french-->
 		<!--From Human french-->
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Vous savez bien ce qui nous a conduits Ã  cette... fÃ¢cheuse tournure des Ã©vÃ©nements.</Text>
 		</Row>
 		<!--From AI french-->
-		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Ce mÃ©pris total pour toute vie humaine ne sera pas tolÃ©rÃ©. (DÃ©nonciation)</Text>
 		</Row>
 		<!--DECLARE WAR french-->
 		<!--Human Declares War french-->
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Vous avez prouvÃ© que vous Ã©tiez un dirigeant inapte, et je ne peux plus supporter les cris de votre peuple. Il sera libÃ©rÃ© de votre tyrannie.</Text>
 		</Row>
 		<!--AI Declares War french-->
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Bien que je dÃ©teste la guerre, je considÃ¨re que dÃ©barrasser le monde de votre prÃ©sence est un service rendu Ã  l'humanitÃ© entiÃ¨re.</Text>
 		</Row>
 		<!--MAKE PEACE french-->
 		<!--AI accepts from human french-->
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Oui, oui. C'est une bonne chose.</Text>
 		</Row>
 		<!--AI refuses human french-->
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Quelle perte de temps!</Text>
 		</Row>
 		<!--AI requests from human french-->
-		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Il me semble qu'il est temps de faire la paix.</Text>
 		</Row>
 		<!--DEFEAT french-->
 		<!--AI is Defeated french-->
-		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
 			<Text>Peut-Ãªtre que c'est mieux ainsi... Maintenant, au moins, je n'aurai pas Ã  vous regarder dÃ©truire ma nation bien-aimÃ©e.</Text>
 		</Row>
 		<!--Human is Defeated (will see this in hotseat) french-->
-		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GEDEMO_WILLEM_ANY" Language="fr_FR">
-			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GEDEMO_WILLEM_ANY]</Text>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY]</Text>
 		</Row>
 
 

@@ -10,8 +10,8 @@
 	<m_PackageName text="leaders/light_rigs"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="Gedemo_Willem_LightRig"/>
-			<m_ObjectName text="Gedemo_Willem_LightRig"/>
+			<m_EntryID text="William_of_Orange_LightRig"/>
+			<m_ObjectName text="William_of_Orange_LightRig"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

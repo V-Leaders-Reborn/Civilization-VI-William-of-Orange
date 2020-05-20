@@ -15,10 +15,10 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="Gedemo_Willem"/>
+							<m_EntryName text="William_of_Orange"/>
 							<m_XLPClass text="Leader"/>
-							<m_XLPPath text="Leader_Gedemo_Willem.xlp"/>
-							<m_BLPPackage text="leaders/Leader_Gedemo_Willem"/>
+							<m_XLPPath text="Leader_William_of_Orange.xlp"/>
+							<m_BLPPackage text="leaders/Leader_William_of_Orange"/>
 							<m_LibraryName text="Leader"/>
 							<m_ParamName text="Leader_BLP_Entry"/>
 						</Element>
@@ -39,10 +39,10 @@
 							<m_ParamName text="Leader_ColorKey_BLP_Entry"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="Gedemo_Willem"/>
+							<m_EntryName text="William_of_Orange"/>
 							<m_XLPClass text="Leader"/>
-							<m_XLPPath text="leader_gedemo_willem.xlp"/>
-							<m_BLPPackage text="leaders/Leader_Gedemo_Willem"/>
+							<m_XLPPath text="Leader_William_of_Orange.xlp"/>
+							<m_BLPPackage text="leaders/Leader_William_of_Orange"/>
 							<m_LibraryName text="Leader"/>
 							<m_ParamName text="Leader_Background_BLP_Entry"/>
 						</Element>
@@ -57,7 +57,7 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="LEADER_GEDEMO_WILLEM"/>
+				<m_Name text="LEADER_WILLIAM_OF_ORANGE"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>

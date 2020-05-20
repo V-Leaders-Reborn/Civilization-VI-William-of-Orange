@@ -13,7 +13,7 @@
     <SupportsMultiplayer>true</SupportsMultiplayer>
     <SupportsHotSeat>true</SupportsHotSeat>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
-    <InGameActionData><![CDATA[<InGameActions><UpdateArt id="Art"><Properties><LoadOrde>100</LoadOrde></Properties><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="UpdateIconsWilliam"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_Icons.xml</File></UpdateIcons><UpdateDatabase id="UpdateDatabaseWilliam"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_GameDefines.sql</File><File>Core/MJ_ynaempSupportTable.sql</File></UpdateDatabase><UpdateText id="UpdateTextWilliam"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_Text.xml</File></UpdateText><UpdateColors id="UpdateColorWilliam"><Properties><LoadOrde>101</LoadOrde></Properties><File>Core/Colour.sql</File></UpdateColors><UpdateAudio id="UpdateWillemAudio"><File>Audio/SoundbanksInfo.xml</File><File>Audio/netherlands_william_of_orange.ini</File><File>Audio/William_Netherlands.bnk</File><File>Audio/William_Netherlands.txt</File><File>Audio/Init.bnk</File><File>Audio/Init.txt</File></UpdateAudio></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateArt id="Art"><Properties><LoadOrde>100</LoadOrde></Properties><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="UpdateIconsWilliam"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_Icons.xml</File></UpdateIcons><UpdateDatabase id="UpdateDatabaseWilliam"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_GameDefines.sql</File><File>Core/MJ_ynaempSupportTable.sql</File></UpdateDatabase><UpdateText id="UpdateTextWilliam"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_Text.xml</File></UpdateText><UpdateColors id="UpdateColorWilliam"><Properties><LoadOrde>101</LoadOrde></Properties><File>Core/Colour.sql</File></UpdateColors><UpdateAudio id="UpdateWILLIAMAudio"><File>Audio/William_Netherlands.bnk</File><File>Audio/William_Netherlands.txt</File><File>Audio/William_Netherlands.ini</File><File>Audio/William_Netherlands.xml</File></UpdateAudio></InGameActions>]]></InGameActionData>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_Config.xml</File></UpdateDatabase><UpdateText id="ConfigText"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_Text.xml</File></UpdateText><UpdateIcons id="ConfigIcons"><Properties><LoadOrde>100</LoadOrde></Properties><File>Core/William_Icons.xml</File></UpdateIcons><UpdateArt id="WilliamArt"><Properties><LoadOrde>100</LoadOrde></Properties><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_JASPER_KITTY</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
     <AssemblyName>William</AssemblyName>
@@ -187,28 +187,19 @@
     <Content Include="ArtDefs\Leaders.artdef">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Assets\Gedemo_Willem.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Audio\Init.bnk">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Audio\Init.txt">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Audio\netherlands_william_of_orange.ini">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Audio\PluginInfo.xml">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Audio\SoundbanksInfo.xml">
+    <Content Include="Assets\William_of_Orange.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Audio\William_Netherlands.bnk">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Audio\William_Netherlands.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Audio\William_Netherlands.txt">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Audio\William_Netherlands.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="cooker.log">
@@ -271,76 +262,76 @@
     <Content Include="Materials\Teeth.mtl">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ART_LEADER_WILLEM.dds">
+    <Content Include="Textures\ART_LEADER_WILLIAM.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ART_LEADER_WILLEM.tex">
+    <Content Include="Textures\ART_LEADER_WILLIAM.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\FALLBACK_NEUTRAL_WILLEM.dds">
+    <Content Include="Textures\FALLBACK_NEUTRAL_WILLIAM.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\FALLBACK_NEUTRAL_WILLEM.tex">
+    <Content Include="Textures\FALLBACK_NEUTRAL_WILLIAM.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_256.dds">
+    <Content Include="Textures\ICON_WILLIAM_256.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_256.tex">
+    <Content Include="Textures\ICON_WILLIAM_256.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_32.dds">
+    <Content Include="Textures\ICON_WILLIAM_32.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_32.tex">
+    <Content Include="Textures\ICON_WILLIAM_32.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_45.dds">
+    <Content Include="Textures\ICON_WILLIAM_45.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_45.tex">
+    <Content Include="Textures\ICON_WILLIAM_45.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_48.dds">
+    <Content Include="Textures\ICON_WILLIAM_48.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_48.tex">
+    <Content Include="Textures\ICON_WILLIAM_48.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_50.dds">
+    <Content Include="Textures\ICON_WILLIAM_50.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_50.tex">
+    <Content Include="Textures\ICON_WILLIAM_50.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_55.dds">
+    <Content Include="Textures\ICON_WILLIAM_55.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_55.tex">
+    <Content Include="Textures\ICON_WILLIAM_55.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_64.dds">
+    <Content Include="Textures\ICON_WILLIAM_64.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_64.tex">
+    <Content Include="Textures\ICON_WILLIAM_64.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_80.dds">
+    <Content Include="Textures\ICON_WILLIAM_80.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_WILLEM_80.tex">
+    <Content Include="Textures\ICON_WILLIAM_80.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\LEADER_WILLEM_BACKGROUND.dds">
+    <Content Include="Textures\LEADER_WILLIAM_BACKGROUND.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\LEADER_WILLEM_BACKGROUND.tex">
+    <Content Include="Textures\LEADER_WILLIAM_BACKGROUND.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\LEADER_WILLEM_NEUTRAL.dds">
+    <Content Include="Textures\LEADER_WILLIAM_NEUTRAL.dds">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\LEADER_WILLEM_NEUTRAL.tex">
+    <Content Include="Textures\LEADER_WILLIAM_NEUTRAL.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\william_book_diff.dds">
@@ -376,7 +367,7 @@
     <Content Include="XLPs\LeaderFallbacks.xlp">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\Leader_Gedemo_Willem.xlp">
+    <Content Include="XLPs\Leader_William_of_Orange.xlp">
       <SubType>Content</SubType>
     </Content>
     <Content Include="XLPs\Leader_LightRigs.xlp">
