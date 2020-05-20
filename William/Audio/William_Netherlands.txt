@@ -1,0 +1,40 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1350851180	SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR			\Speech\Leaders\William\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR	
+	1572780827	SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO			\Speech\Leaders\William\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3441926412	Game_Views			\Default Work Unit\Game_Views	
+
+State	ID	Name	State Group			Notes
+	138330285	Lens	Game_Views			
+	319258907	Paused	Game_Views			
+	706390200	Normal_View	Game_Views			
+	748895195	None	Game_Views			
+	2005704188	Main_Menu	Game_Views			
+	2664707777	Leader_Screen	Game_Views			
+	4264815106	Endgame	Game_Views			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	51453807	Paused	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO		
+	55199554	Lens	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR		
+	74325266	Leader_Screen	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR		
+	175169739	Normal_View	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands		
+	206130517	Paused	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR		
+	387403909	Endgame	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR		
+	497376317	Leader_Screen	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands		
+	506008395	Lens	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO		
+	577959099	Normal_View	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR		
+	632384912	Leader_Screen	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO		
+	732042317	Lens	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands		
+	750187370	Paused	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands		
+	777255211	Endgame	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands		
+	794594272	Main_Menu	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR		
+	832716648	Main_Menu	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO		
+	914663984	Endgame	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO		
+	976651229	Normal_View	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO		
+	1032198041	Main_Menu	Game_Views	\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	318440685	SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeDeclareWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_DECLARE_WAR		1539324
+	1033176927	SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\Leaders\LeaderSpeech\William_Netherlands\SND_LEADER_SPEECH_WILLIAM_OF_ORANGE_INTRO		1414908
+

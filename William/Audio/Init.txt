@@ -1,0 +1,25 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	3441926412	Game_Views			\Default Work Unit\Game_Views	
+
+State	ID	Name	State Group			Notes
+	138330285	Lens	Game_Views			
+	319258907	Paused	Game_Views			
+	706390200	Normal_View	Game_Views			
+	748895195	None	Game_Views			
+	2005704188	Main_Menu	Game_Views			
+	2664707777	Leader_Screen	Game_Views			
+	4264815106	Endgame	Game_Views			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	138591616	SFX Leaders			\Default Work Unit\Master Audio Bus\Master SFX Bus\Non_Interface SFX Bus\SFX Leaders	
+	371430771	Vocalizations			\Default Work Unit\Master Audio Bus\Master SFX Bus\Non_Interface SFX Bus\Vocalizations	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	994041625	Speech_CustomVO_Bus			\Default Work Unit\Master Audio Bus\Speech_CustomVO_Bus	
+	1069574914	SFX Bus 2D			\Default Work Unit\Master Audio Bus\Master SFX Bus\Non_Interface SFX Bus\SFX Bus 2D	
+	1081799833	Speech_FTUE_Bus			\Default Work Unit\Master Audio Bus\Speech Bus\Speech_FTUE_Bus	
+	1086352541	SFX Bus 3D			\Default Work Unit\Master Audio Bus\Master SFX Bus\Non_Interface SFX Bus\SFX Bus 3D	
+	1472570345	Speech Bus			\Default Work Unit\Master Audio Bus\Speech Bus	
+	3577355056	Master SFX Bus			\Default Work Unit\Master Audio Bus\Master SFX Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	4140488329	Non_Interface SFX Bus			\Default Work Unit\Master Audio Bus\Master SFX Bus\Non_Interface SFX Bus	
+

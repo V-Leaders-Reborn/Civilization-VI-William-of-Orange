@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_32"/>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_45"/>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_48"/>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_50"/>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_55"/>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_64"/>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_80"/>
+		<Row Name="ICON_ATLAS_WILLEM_LEADERS" 		IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_WILLEM_256"/>
+
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_GEDEMO_WILLEM" Atlas="ICON_ATLAS_WILLEM_LEADERS" Index="0"/>
+
+	</IconDefinitions>
+	
+	
+	
+	
+</GameData>
