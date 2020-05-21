@@ -1,3 +1,13 @@
 Starting AssetCooker...
-This build of the cooker is not able to cook for: 'MacOS'
-Cook completed in 0.017 seconds
+Argument '--shaders' has been deprecated and is no longer used.
+XLP cook starting...
+C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\William\William\XLPs\UITextures.xlp
+Opened output file: C:\Users\Simon\Documents\My Games\Sid Meier's Civilization VI\Mods\William\Platforms\MacOS\BLPs/UITextures.blp    For XLP: 'C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\William\William\XLPs\UITextures.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting 'UITextures'
+Load finished for: 'UITextures' in 0.019 seconds
+Cook finished for: 'UITextures' in 0.172 seconds
+Disk write finished for: 'UITextures' in 0.092 seconds
+Cleanup finished for: 'UITextures' in 0.002 seconds
+XLP cook completed with success.
+Cook completed in 0.298 seconds

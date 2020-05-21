@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects..ArtDefSet>
 	<m_Version>
-		<major>4</major>
+		<major>1</major>
 		<minor>0</minor>
-		<build>451</build>
-		<revision>343</revision>
+		<build>0</build>
+		<revision>0</revision>
 	</m_Version>
 	<m_TemplateName text="Leaders"/>
 	<m_RootCollections>
@@ -23,7 +23,7 @@
 							<m_ParamName text="Leader_BLP_Entry"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="ART_DEFAULT_LIGHT"/>
+							<m_EntryName text="William_of_Orange_LightRig"/>
 							<m_XLPClass text="LeaderLighting"/>
 							<m_XLPPath text="leader_lightrigs.xlp"/>
 							<m_BLPPackage text="leaders/light_rigs"/>
@@ -31,18 +31,18 @@
 							<m_ParamName text="Leader_Lightrig_BLP_Entry"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CK_Identity"/>
+							<m_EntryName text="Leader_Colorkey_2"/>
 							<m_XLPClass text="ColorKey"/>
-							<m_XLPPath text="ColorKeys.xlp"/>
+							<m_XLPPath text="colorkeys.xlp"/>
 							<m_BLPPackage text="ColorKeys"/>
 							<m_LibraryName text="ColorKey"/>
 							<m_ParamName text="Leader_ColorKey_BLP_Entry"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="William_of_Orange"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="Leader"/>
-							<m_XLPPath text="Leader_William_of_Orange.xlp"/>
-							<m_BLPPackage text="leaders/Leader_William_of_Orange"/>
+							<m_XLPPath text=""/>
+							<m_BLPPackage text=""/>
 							<m_LibraryName text="Leader"/>
 							<m_ParamName text="Leader_Background_BLP_Entry"/>
 						</Element>

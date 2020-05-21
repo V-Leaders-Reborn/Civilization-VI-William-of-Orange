@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Simon\Documents\WwiseProjects\William of Orange\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Simon\Documents\WwiseProjects\William of Orange\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Simon\Documents\WwiseProjects\William of Orange\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1911421905" Language="SFX">
+			<ShortName>William_Netherlands</ShortName>
+			<Path>William_Netherlands.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2872687242" Name="WilliamOfOrangeAttacked"/>
+				<Event Id="4275726837" Name="WilliamOfOrangeCloseBookSFX"/>
+				<Event Id="3793893061" Name="WilliamOfOrangeDeclareWar"/>
+				<Event Id="890166151" Name="WilliamOfOrangeDefeated"/>
+				<Event Id="1445475543" Name="WilliamOfOrangeHateHello"/>
+				<Event Id="1807181788" Name="WilliamOfOrangeHateLetsHearIt"/>
+				<Event Id="3710447516" Name="WilliamOfOrangeHateNo"/>
+				<Event Id="2644927830" Name="WilliamOfOrangeHateYes"/>
+				<Event Id="2867285329" Name="WilliamOfOrangeIntro"/>
+				<Event Id="3865236626" Name="WilliamOfOrangeNeutralHello"/>
+				<Event Id="183361371" Name="WilliamOfOrangeNeutralLetsHearIt"/>
+				<Event Id="2277523639" Name="WilliamOfOrangeNeutralNo"/>
+				<Event Id="1356833483" Name="WilliamOfOrangeNeutralYes"/>
+				<Event Id="3865679675" Name="WilliamOfOrangePageTurnBookSFX"/>
+				<Event Id="3090981558" Name="WilliamOfOrangePeaceful"/>
+				<Event Id="260034168" Name="WilliamOfOrangeRequest"/>
+				<Event Id="3681589806" Name="WilliamOfOrangeSlamBookSFX"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="45380599" Language="SFX">
+					<ShortName>WilliamOfOrangeHateHello.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="63055825" Language="SFX">
+					<ShortName>WilliamOfOrangeSlamBookSFX.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeSlamBookSFX_9E69E797.wem</Path>
+				</File>
+				<File Id="76876147" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralLetsHearIt01.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralLetsHearIt01_9E69E797.wem</Path>
+				</File>
+				<File Id="121962504" Language="SFX">
+					<ShortName>WilliamOfOrangeHateNo03.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateNo03_9E69E797.wem</Path>
+				</File>
+				<File Id="144095370" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralYes02.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralYes02_9E69E797.wem</Path>
+				</File>
+				<File Id="183493049" Language="SFX">
+					<ShortName>WilliamOfOrangePageTurnBookSFX.wav</ShortName>
+					<Path>SFX\WilliamOfOrangePageTurnBookSFX_9E69E797.wem</Path>
+				</File>
+				<File Id="227624408" Language="SFX">
+					<ShortName>WilliamOfOrangeHateLetsHearIt02.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateLetsHearIt02_9E69E797.wem</Path>
+				</File>
+				<File Id="256838993" Language="SFX">
+					<ShortName>WilliamOfOrangeRequest.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeRequest_9E69E797.wem</Path>
+				</File>
+				<File Id="301030829" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralNo02.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralNo02_9E69E797.wem</Path>
+				</File>
+				<File Id="318440685" Language="SFX">
+					<ShortName>WilliamOfOrangeDeclareWar.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeDeclareWar_9E69E797.wem</Path>
+				</File>
+				<File Id="350647002" Language="SFX">
+					<ShortName>WilliamOfOrangeAttacked.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeAttacked_9E69E797.wem</Path>
+				</File>
+				<File Id="351170864" Language="SFX">
+					<ShortName>WilliamOfOrangeHateLetsHearIt03.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateLetsHearIt03_9E69E797.wem</Path>
+				</File>
+				<File Id="353771079" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralYes03.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralYes03_9E69E797.wem</Path>
+				</File>
+				<File Id="354035787" Language="SFX">
+					<ShortName>WilliamOfOrangeHateYes03.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateYes03_9E69E797.wem</Path>
+				</File>
+				<File Id="356467470" Language="SFX">
+					<ShortName>WilliamOfOrangeDefeated.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeDefeated_9E69E797.wem</Path>
+				</File>
+				<File Id="377946021" Language="SFX">
+					<ShortName>WilliamOfOrangeHateYes02.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateYes02_9E69E797.wem</Path>
+				</File>
+				<File Id="549836140" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralNo03.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralNo03_9E69E797.wem</Path>
+				</File>
+				<File Id="578481930" Language="SFX">
+					<ShortName>WilliamOfOrangeHateLetsHearIt01.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateLetsHearIt01_9E69E797.wem</Path>
+				</File>
+				<File Id="667186425" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralLetsHearIt03.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralLetsHearIt03_9E69E797.wem</Path>
+				</File>
+				<File Id="699311147" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralHello.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralHello_9E69E797.wem</Path>
+				</File>
+				<File Id="796987010" Language="SFX">
+					<ShortName>WilliamOfOrangePeaceful.wav</ShortName>
+					<Path>SFX\WilliamOfOrangePeaceful_9E69E797.wem</Path>
+				</File>
+				<File Id="825982687" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralLetsHearIt02.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralLetsHearIt02_9E69E797.wem</Path>
+				</File>
+				<File Id="864211907" Language="SFX">
+					<ShortName>WilliamOfOrangeHateYes01.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateYes01_9E69E797.wem</Path>
+				</File>
+				<File Id="880932369" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralNo01.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralNo01_9E69E797.wem</Path>
+				</File>
+				<File Id="943738105" Language="SFX">
+					<ShortName>WilliamOfOrangeHateNo01.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateNo01_9E69E797.wem</Path>
+				</File>
+				<File Id="947210984" Language="SFX">
+					<ShortName>WilliamOfOrangeHateNo02.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeHateNo02_9E69E797.wem</Path>
+				</File>
+				<File Id="950477477" Language="SFX">
+					<ShortName>WilliamOfOrangeNeutralYes01.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeNeutralYes01_9E69E797.wem</Path>
+				</File>
+				<File Id="985211709" Language="SFX">
+					<ShortName>WilliamOfOrangeCloseBookSFX.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeCloseBookSFX_9E69E797.wem</Path>
+				</File>
+				<File Id="1033176927" Language="SFX">
+					<ShortName>WilliamOfOrangeIntro.wav</ShortName>
+					<Path>SFX\WilliamOfOrangeIntro_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

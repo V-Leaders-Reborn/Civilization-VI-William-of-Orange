@@ -1,0 +1,50 @@
+Event	ID	Name			Wwise Object Path	Notes
+	183361371	WilliamOfOrangeNeutralLetsHearIt			\Default Work Unit\WilliamOfOrangeNeutralLetsHearIt	
+	260034168	WilliamOfOrangeRequest			\Default Work Unit\WilliamOfOrangeRequest	
+	890166151	WilliamOfOrangeDefeated			\Default Work Unit\WilliamOfOrangeDefeated	
+	1356833483	WilliamOfOrangeNeutralYes			\Default Work Unit\WilliamOfOrangeNeutralYes	
+	1445475543	WilliamOfOrangeHateHello			\Default Work Unit\WilliamOfOrangeHateHello	
+	1807181788	WilliamOfOrangeHateLetsHearIt			\Default Work Unit\WilliamOfOrangeHateLetsHearIt	
+	2277523639	WilliamOfOrangeNeutralNo			\Default Work Unit\WilliamOfOrangeNeutralNo	
+	2644927830	WilliamOfOrangeHateYes			\Default Work Unit\WilliamOfOrangeHateYes	
+	2867285329	WilliamOfOrangeIntro			\Default Work Unit\WilliamOfOrangeIntro	
+	2872687242	WilliamOfOrangeAttacked			\Default Work Unit\WilliamOfOrangeAttacked	
+	3090981558	WilliamOfOrangePeaceful			\Default Work Unit\WilliamOfOrangePeaceful	
+	3681589806	WilliamOfOrangeSlamBookSFX			\Default Work Unit\WilliamOfOrangeSlamBookSFX	
+	3710447516	WilliamOfOrangeHateNo			\Default Work Unit\WilliamOfOrangeHateNo	
+	3793893061	WilliamOfOrangeDeclareWar			\Default Work Unit\WilliamOfOrangeDeclareWar	
+	3865236626	WilliamOfOrangeNeutralHello			\Default Work Unit\WilliamOfOrangeNeutralHello	
+	3865679675	WilliamOfOrangePageTurnBookSFX			\Default Work Unit\WilliamOfOrangePageTurnBookSFX	
+	4275726837	WilliamOfOrangeCloseBookSFX			\Default Work Unit\WilliamOfOrangeCloseBookSFX	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	45380599	WilliamOfOrangeHateHello	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateHello		212220
+	63055825	WilliamOfOrangeSlamBookSFX	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeSlamBookSFX_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeSlamBookSFX		267516
+	76876147	WilliamOfOrangeNeutralLetsHearIt01	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralLetsHearIt01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralLetsHearIt\WilliamOfOrangeNeutralLetsHearIt01		143100
+	121962504	WilliamOfOrangeHateNo03	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateNo03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateNo\WilliamOfOrangeHateNo03		193788
+	144095370	WilliamOfOrangeNeutralYes02	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralYes02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralYes\WilliamOfOrangeNeutralYes02		193788
+	183493049	WilliamOfOrangePageTurnBookSFX	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangePageTurnBookSFX_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangePageTurnBookSFX		168350
+	227624408	WilliamOfOrangeHateLetsHearIt02	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateLetsHearIt02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateLetsHearIt\WilliamOfOrangeHateLetsHearIt02		69372
+	256838993	WilliamOfOrangeRequest	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeRequest_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeRequest		576252
+	301030829	WilliamOfOrangeNeutralNo02	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralNo02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralNo\WilliamOfOrangeNeutralNo02		156924
+	318440685	WilliamOfOrangeDeclareWar	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeDeclareWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeDeclareWar		1539324
+	350647002	WilliamOfOrangeAttacked	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeAttacked_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeAttacked		1193724
+	351170864	WilliamOfOrangeHateLetsHearIt03	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateLetsHearIt03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateLetsHearIt\WilliamOfOrangeHateLetsHearIt03		193788
+	353771079	WilliamOfOrangeNeutralYes03	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralYes03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralYes\WilliamOfOrangeNeutralYes03		350460
+	354035787	WilliamOfOrangeHateYes03	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateYes03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateYes\WilliamOfOrangeHateYes03		184572
+	356467470	WilliamOfOrangeDefeated	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeDefeated_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeDefeated		1285884
+	377946021	WilliamOfOrangeHateYes02	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateYes02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateYes\WilliamOfOrangeHateYes02		401148
+	549836140	WilliamOfOrangeNeutralNo03	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralNo03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralNo\WilliamOfOrangeNeutralNo03		189180
+	578481930	WilliamOfOrangeHateLetsHearIt01	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateLetsHearIt01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateLetsHearIt\WilliamOfOrangeHateLetsHearIt01		115452
+	667186425	WilliamOfOrangeNeutralLetsHearIt03	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralLetsHearIt03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralLetsHearIt\WilliamOfOrangeNeutralLetsHearIt03		78588
+	699311147	WilliamOfOrangeNeutralHello	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralHello		258300
+	796987010	WilliamOfOrangePeaceful	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangePeaceful_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangePeaceful		1152252
+	825982687	WilliamOfOrangeNeutralLetsHearIt02	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralLetsHearIt02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralLetsHearIt\WilliamOfOrangeNeutralLetsHearIt02		106236
+	864211907	WilliamOfOrangeHateYes01	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateYes01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateYes\WilliamOfOrangeHateYes01		359676
+	880932369	WilliamOfOrangeNeutralNo01	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralNo01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralNo\WilliamOfOrangeNeutralNo01		327420
+	943738105	WilliamOfOrangeHateNo01	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateNo01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateNo\WilliamOfOrangeHateNo01		239868
+	947210984	WilliamOfOrangeHateNo02	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeHateNo02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeHateNo\WilliamOfOrangeHateNo02		308988
+	950477477	WilliamOfOrangeNeutralYes01	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeNeutralYes01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeNeutralYes\WilliamOfOrangeNeutralYes01		147708
+	985211709	WilliamOfOrangeCloseBookSFX	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeCloseBookSFX_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeCloseBookSFX		124668
+	1033176927	WilliamOfOrangeIntro	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeIntro		1414908
+

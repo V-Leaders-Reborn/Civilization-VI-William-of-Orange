@@ -1,8 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2867285329	WilliamOfOrangeIntro			\Default Work Unit\WilliamOfOrangeIntro	
-	3793893061	WilliamOfOrangeDeclareWar			\Default Work Unit\WilliamOfOrangeDeclareWar	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	318440685	WilliamOfOrangeDeclareWar	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeDeclareWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeDeclareWar		1539324
-	1033176927	WilliamOfOrangeIntro	C:\Users\Simon\Documents\WwiseProjects\William of Orange\.cache\Windows\SFX\WilliamOfOrangeIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\WilliamO\WilliamOfOrangeIntro		1414908
-
