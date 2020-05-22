@@ -7,7 +7,7 @@
 		<m_AnalyticLights/>
 		<m_EnvironmentLights>
 			<Element>
-				<m_LightName text="newdefaultleaderenv"/>
+				<m_LightName text="William_of_Orange_Environment"/>
 			</Element>
 		</m_EnvironmentLights>
 	</m_LightRefs>

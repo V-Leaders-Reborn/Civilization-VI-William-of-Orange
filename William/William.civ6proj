@@ -270,9 +270,6 @@
     <Content Include="Textures\ART_LEADER_WILLIAM.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\FALLBACK_NEUTRAL_WILLIAM.dds">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Textures\FALLBACK_NEUTRAL_WILLIAM.tex">
       <SubType>Content</SubType>
     </Content>
@@ -330,9 +327,6 @@
     <Content Include="Textures\LEADER_WILLIAM_BACKGROUND.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\LEADER_WILLIAM_NEUTRAL.dds">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Textures\LEADER_WILLIAM_NEUTRAL.tex">
       <SubType>Content</SubType>
     </Content>
@@ -346,6 +340,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\william_clothes_diff.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\FALLBACK_NEUTRAL_WILLIAM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\LEADER_WILLIAM_NEUTRAL.dds">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\william_skin_diff.dds">
