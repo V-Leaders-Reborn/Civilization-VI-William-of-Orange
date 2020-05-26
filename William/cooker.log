@@ -5,9 +5,9 @@ C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\William\William\XLPs\U
 Opened output file: C:\Users\Simon\Documents\My Games\Sid Meier's Civilization VI\Mods\William\Platforms\MacOS\BLPs/UITextures.blp    For XLP: 'C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\William\William\XLPs\UITextures.xlp'
 Could not load digest key: ''.  Using mod key to sign BLP.
 Starting 'UITextures'
-Load finished for: 'UITextures' in 0.018 seconds
-Cook finished for: 'UITextures' in 0.179 seconds
-Disk write finished for: 'UITextures' in 0.059 seconds
-Cleanup finished for: 'UITextures' in 0.002 seconds
+Load finished for: 'UITextures' in 0.026 seconds
+Cook finished for: 'UITextures' in 0.184 seconds
+Disk write finished for: 'UITextures' in 0.064 seconds
+Cleanup finished for: 'UITextures' in 0.003 seconds
 XLP cook completed with success.
-Cook completed in 0.270 seconds
+Cook completed in 0.292 seconds

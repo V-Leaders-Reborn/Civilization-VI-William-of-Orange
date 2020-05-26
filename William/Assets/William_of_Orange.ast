@@ -582,17 +582,6 @@
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
-							<Element>
-								<m_eType>SOUND</m_eType>
-								<m_Name text="13"/>
-								<m_Description text=""/>
-								<m_FXName text="WilliamOfOrangeHateYes"/>
-								<m_CollectionName text=""/>
-								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.033333</m_fStartTime>
-								<m_fDuration>0.000000</m_fDuration>
-								<m_nTrackIndex>0</m_nTrackIndex>
-							</Element>
 						</m_Triggers>
 						<m_Tracks>
 							<Element>
@@ -7094,6 +7083,20 @@
 						</m_Values>
 						<m_GroupName text="Teeth"/>
 						<m_MeshName text="William_Teeth"/>
+						<m_StateName text="Default"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+			<Element>
+				<m_Name text="pCube1"/>
+				<m_GeoName text="LEAD_KONG_Afonso_ShadowBox"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values/>
+						</m_Values>
+						<m_GroupName text="lambert1"/>
+						<m_MeshName text="pCubeShape1"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>
