@@ -8,7 +8,6 @@
 		<Element>
 			<consumerName text="Units"/>
 			<relativeArtDefPaths>
-				<Element text="Units.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="Unit"/>
@@ -62,7 +61,8 @@
 			<consumerName text="StrategicView_Properties"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
@@ -231,66 +231,71 @@
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
 			<libraryDependencies>
-				<Element text="CameraAnimation"/>
 			</libraryDependencies>
-			<loadsLibraries>true</loadsLibraries>
+			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="Terrains"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="Features"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="Civilizations"/>
 			<relativeArtDefPaths>
-				<Element text="Civilizations.artdef"/>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="Cultures"/>
 			<relativeArtDefPaths>
-				<Element text="Cultures.artdef"/>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="Resources"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="Improvements"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="WorldView_Translate"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="StrategicView_Translate"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
@@ -298,8 +303,9 @@
 			<relativeArtDefPaths>
 				<Element text="Leaders.artdef"/>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
-			<loadsLibraries>true</loadsLibraries>
+			<libraryDependencies>
+			</libraryDependencies>
+			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="LeaderLighting"/>
@@ -324,38 +330,46 @@
 			</libraryDependencies>
 			<loadsLibraries>true</loadsLibraries>
 		</Element>
+		<Element>
+			<consumerName text="LeaderFallback"/>
 			<relativeArtDefPaths>
 				<Element text="FallbackLeaders.artdef"/>
 			</relativeArtDefPaths>
-			<LibraryDependencies>
+			<libraryDependencies>
 				<Element text="LeaderFallback"/>
-			</LibraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>true</loadsLibraries>
+		</Element>
 		<Element>
 			<consumerName text="Lenses"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="IndirectGrid"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="AOSystem"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="GenericObject"/>
-			<relativeArtDefPaths/>
-			<libraryDependencies/>
+			<relativeArtDefPaths>
+			</relativeArtDefPaths>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
@@ -380,7 +394,8 @@
 			<consumerName text="UIPreview"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
@@ -396,14 +411,16 @@
 			<consumerName text="Minimap"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
 			<consumerName text="UnitSimulation"/>
 			<relativeArtDefPaths>
 			</relativeArtDefPaths>
-			<libraryDependencies/>
+			<libraryDependencies>
+			</libraryDependencies>
 			<loadsLibraries>false</loadsLibraries>
 		</Element>
 		<Element>
@@ -554,8 +571,8 @@
 		<Element>
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
-				<Element text="UILeaders"/>
 				<Element text="LeaderBackgrounds"/>
+				<Element text="UILeaders"/>
 				<Element text="UITextures"/>
 			</relativePackagePaths>
 		</Element>
@@ -587,8 +604,8 @@
 	</gameLibraries>
 	<requiredGameArtIDs>
 		<Element>
-			<name text="Civ6"/>
-			<id text="cb2f71b7-843e-4af3-9ca7-992acda9c195"/>
+			<name text="Shared"/>
+			<id text="725760e3-7fc0-4be7-abf1-17bc756d5436"/>
 		</Element>
 	</requiredGameArtIDs>
 </AssetObjects::GameArtSpecification>

@@ -18,17 +18,17 @@
 				<m_ParamName text="BaseColor"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text=""/>
+				<m_ObjectName text="Black_Metalness"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Metalness"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="william_clothes_opac"/>
+				<m_ObjectName text="White_AO"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="AO"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text=""/>
+				<m_ObjectName text="Black_Gloss"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Gloss"/>
 			</Element>
@@ -56,7 +56,7 @@
 		<build>0</build>
 		<revision>0</revision>
 	</m_Version>
-	<m_ClassName text="Leader_Skin"/>
+	<m_ClassName text="Leader_Cloth"/>
 	<m_DataFiles/>
 	<m_Name text="Clothes"/>
 	<m_Description text=""/>
