@@ -15,7 +15,7 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="William_of_Orange"/>
+							<m_EntryName text="Netherlands_William_of_Orange"/>
 							<m_XLPClass text="Leader"/>
 							<m_XLPPath text="Leader_William_of_Orange.xlp"/>
 							<m_BLPPackage text="leaders/Leader_William_of_Orange"/>

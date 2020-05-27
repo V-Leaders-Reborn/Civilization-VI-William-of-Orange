@@ -1,13 +1,13 @@
 Starting AssetCooker...
 Argument '--shaders' has been deprecated and is no longer used.
 XLP cook starting...
-C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\William\William\XLPs\UITextures.xlp
-Opened output file: C:\Users\Simon\Documents\My Games\Sid Meier's Civilization VI\Mods\William\Platforms\MacOS\BLPs/UITextures.blp    For XLP: 'C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\William\William\XLPs\UITextures.xlp'
+D:\Civ6Mod\gitproject\Civilization-VI-William-of-Orange\William\XLPs\UITextures.xlp
+Opened output file: C:\Users\User\Documents\My Games\Sid Meier's Civilization VI\Mods\William\Platforms\MacOS\BLPs/UITextures.blp    For XLP: 'D:\Civ6Mod\gitproject\Civilization-VI-William-of-Orange\William\XLPs\UITextures.xlp'
 Could not load digest key: ''.  Using mod key to sign BLP.
 Starting 'UITextures'
-Load finished for: 'UITextures' in 0.026 seconds
-Cook finished for: 'UITextures' in 0.184 seconds
-Disk write finished for: 'UITextures' in 0.064 seconds
-Cleanup finished for: 'UITextures' in 0.003 seconds
+Load finished for: 'UITextures' in 0.043 seconds
+Cook finished for: 'UITextures' in 0.409 seconds
+Disk write finished for: 'UITextures' in 0.089 seconds
+Cleanup finished for: 'UITextures' in 0.005 seconds
 XLP cook completed with success.
-Cook completed in 0.292 seconds
+Cook completed in 0.570 seconds

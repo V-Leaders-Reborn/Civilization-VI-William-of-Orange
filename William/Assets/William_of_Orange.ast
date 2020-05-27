@@ -6826,8 +6826,22 @@
 		<m_ModelInstances>
 			<Element>
 				<m_Name text="MasterCamera"/>
-				<m_GeoName text="LEAD_CameraTemplate"/>
+				<m_GeoName text="LEAD_EGYP_Cleopatra_Camera"/>
 				<m_GroupStates/>
+			</Element>
+			<Element>
+				<m_Name text="pCube1"/>
+				<m_GeoName text="LEAD_GERM_Barbarossa_ShadowBox"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values/>
+						</m_Values>
+						<m_GroupName text="lambert1"/>
+						<m_MeshName text="pCubeShape1"/>
+						<m_StateName text="Default"/>
+					</Element>
+				</m_GroupStates>
 			</Element>
 			<Element>
 				<m_Name text="Human"/>
@@ -6963,13 +6977,9 @@
 						<m_Values>
 							<m_Values>
 								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Skin"/>
+									<m_ObjectName text="Leader_cornea"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>false</m_bValue>
-									<m_ParamName text="RecalculateNormals"/>
 								</Element>
 							</m_Values>
 						</m_Values>
@@ -7083,20 +7093,6 @@
 						</m_Values>
 						<m_GroupName text="Teeth"/>
 						<m_MeshName text="William_Teeth"/>
-						<m_StateName text="Default"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="pCube1"/>
-				<m_GeoName text="LEAD_KONG_Afonso_ShadowBox"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values/>
-						</m_Values>
-						<m_GroupName text="lambert1"/>
-						<m_MeshName text="pCubeShape1"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>
