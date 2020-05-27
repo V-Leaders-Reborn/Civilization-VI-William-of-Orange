@@ -207,6 +207,7 @@
 </Element>
 </m_Meshes>
 <m_Bones>
+<Element text="CN6_ADJUSTMENT_BONE_5"/>
 <Element text="CN6_ADJUSTMENT_BONE_4"/>
 <Element text="CN6_ADJUSTMENT_BONE_3"/>
 <Element text="CN6_ADJUSTMENT_BONE_2"/>
