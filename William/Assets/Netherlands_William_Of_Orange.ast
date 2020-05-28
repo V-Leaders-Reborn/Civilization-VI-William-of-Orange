@@ -18,7 +18,7 @@
                     </Element>
                     <Element>
                         <m_SlotName text="04_KUDOS"/>
-                        <m_AnimationName text="netherlands_william_of_orange_peaceful"/>
+                        <m_AnimationName text="netherlands_william_of_orange_neutral_hello"/>
                     </Element>
                     <Element>
                         <m_SlotName text="05_WARNING"/>
@@ -99,6 +99,22 @@
                     <Element>
                         <m_SlotName text="HAPPY_TO_NEUTRAL"/>
                         <m_AnimationName text="netherlands_william_of_orange_neutral_idle"/>
+                    </Element>
+                    <Element>
+                    	<m_SlotName text="UNHAPPY_TO_ENRAGED"/>
+                        <m_AnimationName text="netherlands_william_of_orange_neutral_trans_attacked"/>
+                    </Element>
+                    <Element>
+                    	<m_SlotName text="NEUTRAL_TO_ENRAGED"/>
+                    	<m_AnimationName text="netherlands_william_of_orange_neutral_trans_attacked"/>
+                    </Element>
+                    <Element>
+                        <m_SlotName text="HAPPY_TO_ENRAGED"/>
+                    	<m_AnimationName text="netherlands_william_of_orange_neutral_trans_attacked"/>
+                    </Element>
+                    <Element>
+                        <m_SlotName text="NEUTRAL_TO_UNHAPPY"/>
+                    	<m_AnimationName text="netherlands_william_of_orange_neutral_trans_attacked"/>
                     </Element>
                 </m_Bindings>
             </m_animationBindings>
@@ -321,17 +337,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="netherlands_william_of_orange_declare_war"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <Element>
-                            <m_eType>SOUND</m_eType>
-                            <m_Name text="5"/>
-                            <m_Description text=""/>
-                            <m_FXName text="WilliamOfOrangeDeclareWar"/>
-                            <m_CollectionName text=""/>
-                            <m_AttachmentPointName text=""/>
-                            <m_fStartTime>0.90000093</m_fStartTime>
-                            <m_fDuration>0.000000</m_fDuration>
-                            <m_nTrackIndex>0</m_nTrackIndex>
-                        </Element>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="5"/>
+                                <m_Description text=""/>
+                                <m_FXName text="WilliamOfOrangeDeclareWar"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.90000093</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -362,17 +380,17 @@
                     <Element>
                         <m_Name text="04_KUDOS"/>
                         <m_Description text=""/>
-                        <m_AnimationName text="netherlands_william_of_orange_peaceful"/>
+                        <m_AnimationName text="netherlands_william_of_orange_neutral_hello"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
                                 <m_Name text="6"/>
                                 <m_Description text=""/>
-                                <m_FXName text="WilliamOfOrangePeaceful"/>
+                                <m_FXName text="WilliamOfOrangeNeutralHello"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.300000221</m_fStartTime>
+                                <m_fStartTime>0.9333334</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -497,17 +515,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="netherlands_william_of_orange_declare_war"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <Element>
-                            <m_eType>SOUND</m_eType>
-                            <m_Name text="7"/>
-                            <m_Description text=""/>
-                            <m_FXName text="WilliamOfOrangeDeclareWar"/>
-                            <m_CollectionName text=""/>
-                            <m_AttachmentPointName text=""/>
-                            <m_fStartTime>0.90000093</m_fStartTime>
-                            <m_fDuration>0.000000</m_fDuration>
-                            <m_nTrackIndex>0</m_nTrackIndex>
-                        </Element>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="5"/>
+                                <m_Description text=""/>
+                                <m_FXName text="WilliamOfOrangeDeclareWar"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.90000093</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
