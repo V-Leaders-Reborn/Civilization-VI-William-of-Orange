@@ -121,13 +121,6 @@ VALUES	('CIVILIZATION_NETHERLANDS',	'LEADER_WILLIAM_OF_ORANGE',	'LOC_CITY_NAME_T
 INSERT INTO CityNames	
 			(CivilizationType,				LeaderType,					SortIndex,	CityName)	
 VALUES		('CIVILIZATION_NETHERLANDS',		'LEADER_WILLIAM_OF_ORANGE',		-1,			'LOC_CITY_NAME_THE_HAGUE');	
-			
---------------------------------------------------------------------------------------------------------------------------		
--- BackGround Art		
---------------------------------------------------------------------------------------------------------------------------			
-INSERT INTO DiplomacyInfo			
-		(Type,								BackgroundImage)
-VALUES	('LEADER_WILLIAM_OF_ORANGE',		'ART_LEADER_WILLIAM.dds');
 
 --------------------------------------------------------------------------------------------------------------------------	
 -- Types
