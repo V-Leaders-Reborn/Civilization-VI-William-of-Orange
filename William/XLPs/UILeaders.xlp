@@ -10,14 +10,21 @@
 	<m_PackageName text="UILeaders"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="ART_LEADER_WILLIAM"/>
-			<m_ObjectName text="ART_LEADER_WILLIAM"/>
+			<m_EntryID text="WILLIAM_OF_ORANGE_1"/>
+			<m_ObjectName text="WILLIAM_OF_ORANGE_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WILLIAM_OF_ORANGE_4"/>
+			<m_ObjectName text="WILLIAM_OF_ORANGE_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_WILLIAM_OF_ORANGE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_WILLIAM_OF_ORANGE_BACKGROUND"/>
 		</Element>
 		<Element>
 			<m_EntryID text="LEADER_WILLIAM_NEUTRAL"/>
 			<m_ObjectName text="LEADER_WILLIAM_NEUTRAL"/>
 		</Element>
-
 		<Element>
 			<m_EntryID text="ICON_WILLIAM_256"/>
 			<m_ObjectName text="ICON_WILLIAM_256"/>
@@ -46,7 +53,6 @@
 			<m_EntryID text="ICON_WILLIAM_80"/>
 			<m_ObjectName text="ICON_WILLIAM_80"/>
 		</Element>
-		
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

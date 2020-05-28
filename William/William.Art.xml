@@ -571,9 +571,7 @@
 		<Element>
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
-				<Element text="LeaderBackgrounds"/>
 				<Element text="UILeaders"/>
-				<Element text="UITextures"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>

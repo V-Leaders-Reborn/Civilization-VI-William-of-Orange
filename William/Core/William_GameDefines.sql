@@ -99,7 +99,7 @@ VALUES	('LEADER_WILLIAM_OF_ORANGE',	'AGENDA_MONEY_GRUBBER');
 --------------------------------------------------------------------------------------------------------------------------	
 INSERT INTO LoadingInfo	
 		(LeaderType,						BackgroundImage, 						ForegroundImage,						PlayDawnOfManAudio)
-VALUES	('LEADER_WILLIAM_OF_ORANGE',		'LEADER_NEUTRAL_BACKGROUND',		'LEADER_WILLIAM_NEUTRAL',			0);	
+VALUES	('LEADER_WILLIAM_OF_ORANGE',		'LEADER_WILLIAM_OF_ORANGE_BACKGROUND',		'LEADER_WILLIAM_NEUTRAL',			0);
 --==========================================================================================================================
 -- CIVILIZATIONS
 --==========================================================================================================================

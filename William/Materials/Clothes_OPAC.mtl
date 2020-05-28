@@ -8,6 +8,11 @@
 				<m_ParamName text="BlurWidth"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
+				<m_ObjectName text="william_clothes_tang_up"/>
+				<m_eObjectType>TEXTURE</m_eObjectType>
+				<m_ParamName text="Tangent"/>
+			</Element>
+			<Element class="AssetObjects..ObjectValue">
 				<m_ObjectName text="william_clothes_opac_up"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Opacity"/>
