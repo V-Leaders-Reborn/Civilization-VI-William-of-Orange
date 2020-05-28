@@ -18,8 +18,8 @@
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_JASPER_KITTY</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
     <AssemblyName>William</AssemblyName>
     <RootNamespace>William</RootNamespace>
-    <SpecialThanks>Deliverator, Gedemo</SpecialThanks>
-    <Authors>Steffalon</Authors>
+    <SpecialThanks>Gedemo - Used his work as a template</SpecialThanks>
+    <Authors>Steffalon, Deliverator</Authors>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
