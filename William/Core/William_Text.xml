@@ -21,7 +21,7 @@
 		</Row>
 		<!--Civilopedia-->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_TITLE" Language="en_US">
-			<Text>Prince of Orange</Text>
+			<Text>William of Orange</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_SUBTITLE" Language="en_US">
 			<Text>Stadtholder of the provinces of Holland, Zeeland and Utrecht.</Text>
