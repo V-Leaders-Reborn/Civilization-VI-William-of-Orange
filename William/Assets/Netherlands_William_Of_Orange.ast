@@ -472,17 +472,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="netherlands_william_of_orange_defeated"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <Element>
-                            <m_eType>SOUND</m_eType>
-                            <m_Name text="8"/>
-                            <m_Description text=""/>
-                            <m_FXName text="WilliamOfOrangeDefeated"/>
-                            <m_CollectionName text=""/>
-                            <m_AttachmentPointName text=""/>
-                            <m_fStartTime>1.99814856</m_fStartTime>
-                            <m_fDuration>0.000000</m_fDuration>
-                            <m_nTrackIndex>0</m_nTrackIndex>
-                        </Element>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="8"/>
+                                <m_Description text=""/>
+                                <m_FXName text="WilliamOfOrangeDefeated"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>1.99814856</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                           </Element>
+                       </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
