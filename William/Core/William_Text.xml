@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_NAME" Language="en_US">
-			<Text>Dutch East Indian Company</Text>
+			<Text>Dutch East India Company</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_DESCRIPTION" Language="en_US">
 			<Text>Your [ICON_TradeRoute] International Trade routes provide +2 [ICON_FOOD] Food, +2 [ICON_SCIENCE] Science, and +2 [ICON_CULTURE] Culture. Other Civs' [ICON_TradeRoute] Trade Routes to you provide them with +2 [ICON_PRODUCTION] Production and +2 [ICON_GOLD] Gold for you. +1 Bonus [ICON_TradeRoute] Trade Route capacity.</Text>
