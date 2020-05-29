@@ -181,7 +181,7 @@
 			<Text>Vader des Vaderlands</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_DESCRIPTION" Language="en_US">
-			<Text>Tries to maximize [ICON_TradeRoute] Trade Routes. Likes civilizations that trade with her, dislikes those who do not.</Text>
+			<Text>Tries to maximize [ICON_TradeRoute] Trade Routes. Likes civilizations that trade with him, dislikes those who do not.</Text>
 		</Row>
 
 
