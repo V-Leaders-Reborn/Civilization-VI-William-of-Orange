@@ -30,7 +30,7 @@
 			<Text>Mijn God, mijn God, heb medelijden met mijn ziel en met dit arme volk!</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>William I, Prince of Orange (24 April 1533 â€“ 10 July 1584), also widely known as William the Silent or William the Taciturn (translated from Dutch: Willem de Zwijger), or more commonly known as William of Orange (Dutch: Willem van Oranje), was the main leader of the Dutch revolt against the Spanish Habsburgs that set off the Eighty Years' War (1568â€“1648) and resulted in the formal independence of the United Provinces in 1581. He was born in the House of Nassau as Count of Nassau-Dillenburg. He became Prince of Orange in 1544 and is thereby the founder of the branch House of Orange-Nassau and the ancestor of the monarchy of the Netherlands. Within the Netherlands he is also known as Father of the Fatherland. (Dutch: Vader des Vaderlands).</Text>
+			<Text>William I, Prince of Orange (24 April 1533 - 10 July 1584), also widely known as William the Silent or William the Taciturn (translated from Dutch: Willem de Zwijger), or more commonly known as William of Orange (Dutch: Willem van Oranje), was the main leader of the Dutch revolt against the Spanish Habsburgs that set off the Eighty Years' War (1568â€“1648) and resulted in the formal independence of the United Provinces in 1581. He was born in the House of Nassau as Count of Nassau-Dillenburg. He became Prince of Orange in 1544 and is thereby the founder of the branch House of Orange-Nassau and the ancestor of the monarchy of the Netherlands. Within the Netherlands he is also known as Father of the Fatherland. (Dutch: Vader des Vaderlands).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_2" Language="en_US">
 			<Text>A wealthy nobleman, William originally served the Habsburgs as a member of the court of Margaret of Parma, governor of the Spanish Netherlands. Unhappy with the centralisation of political power away from the local estates and with the Spanish persecution of Dutch Protestants, William joined the Dutch uprising and turned against his former masters. The most influential and politically capable of the rebels, he led the Dutch to several successes in the fight against the Spanish. Declared an outlaw by the Spanish king in 1580, he was assassinated by Balthasar GÃ©rard (also written as "Gerardts") in Delft in 1584.</Text>
@@ -191,7 +191,7 @@
 
 
 		<Row Tag="LOC_DIPLO_MODIFIER_VADER_TRADE" Language="fr_FR">
-			<Text>Le Dirigeant apprÃ©cie que votre empire fasse du commerce avec lui.</Text>
+			<Text>Le Dirigeant apprécie que votre empire fasse du commerce avec lui.</Text>
 		</Row>
 
 
@@ -205,7 +205,7 @@
 
 
 		<Row Tag="LOC_AGENDA_WILLIAM_OF_ORANGE_DESCRIPTION" Language="fr_FR">
-			<Text>Cherche Ã  optimiser les [ICON_TradeRoute] Routes Commerciales. ApprÃ©cie les civilisations qui Ã©changent avec elle. N'apprÃ©cie pas celles ne souhaitant pas faire de commerce.</Text>
+			<Text>Cherche à optimiser les [ICON_TradeRoute] Routes Commerciales. Apprécie les civilisations qui échangent avec elle. N'apprécie pas celles ne souhaitant pas faire de commerce.</Text>
 		</Row>
 
 
@@ -217,7 +217,7 @@
 			<Text>Compagnie des Indes Orientales</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_WILLIAM_OF_ORANGE_DESCRIPTION"  Language="fr_FR" >
-			<Text>Vos [ICON_TradeRoute] Routes Commerciales internationales fournissent +2 [ICON_FOOD] Nourriture, +2 [ICON_SCIENCE] Science, et +2 [ICON_CULTURE] Culture. Les [ICON_TradeRoute] Routes Commerciales des autres civilizations vous fournissent +2 [ICON_GOLD] Or et leur fournissent +2 [ICON_PRODUCTION] Production. +1 capacitÃ© pour [ICON_TradeRoute] Route Commerciale.</Text>
+			<Text>Vos [ICON_TradeRoute] Routes Commerciales internationales fournissent +2 [ICON_FOOD] Nourriture, +2 [ICON_SCIENCE] Science, et +2 [ICON_CULTURE] Culture. Les [ICON_TradeRoute] Routes Commerciales des autres civilizations vous fournissent +2 [ICON_GOLD] Or et leur fournissent +2 [ICON_PRODUCTION] Production. +1 capacité pour [ICON_TradeRoute] Route Commerciale.</Text>
 		</Row>
 
 
@@ -239,27 +239,27 @@
 			<Text>Prince d'Orange</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_SUBTITLE" Language="fr_FR">
-			<Text>Comte de Nassau, de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de ZÃ©lande, de Frise occidentale et d'Utrecht.</Text>
+			<Text>Comte de Nassau, de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de Zélande, de Frise occidentale et d'Utrecht.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_QUOTE" Language="fr_FR">
-			<Text>Mon Dieu, mon dieu, ayez pitiÃ© de mon Ã¢me et de ce pauvre peuple!</Text>
+			<Text>Mon Dieu, mon dieu, ayez pitié de mon âme et de ce pauvre peuple!</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_1" Language="fr_FR">
-			<Text>Guillaume de Nassau, prince d'Orange (en nÃ©erlandais : Willem van Oranje), comte de Nassau, dit Ã©galement Guillaume le Taciturne (Willem de Zwijger) est nÃ© le 24 avril 1533 Ã  Dillenburg et mort au Prinsenhof de Delft le 10 juillet 1584, assassinÃ© par Balthazar GÃ©rard. Sa dÃ©pouille repose dans la Nieuwe Kerk de Delft. Il fut prince d'Orange, comte de Nassau Ã  partir de 1544, puis de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de ZÃ©lande, de Frise occidentale et d'Utrecht Ã  partir de 1559, gouvernant un territoire partagÃ© actuellement entre la Belgique et les Pays-Bas.</Text>
+			<Text>Guillaume de Nassau, prince d'Orange (en néerlandais : Willem van Oranje), comte de Nassau, dit également Guillaume le Taciturne (Willem de Zwijger) est né le 24 avril 1533 à Dillenburg et mort au Prinsenhof de Delft le 10 juillet 1584, assassiné par Balthazar Gérard. Sa dépouille repose dans la Nieuwe Kerk de Delft. Il fut prince d'Orange, comte de Nassau à partir de 1544, puis de Katzenelbogen, de Vianden, burgrave d'Anvers, stathouder de Hollande, de Voorne, de Zélande, de Frise occidentale et d'Utrecht à partir de 1559, gouvernant un territoire partagé actuellement entre la Belgique et les Pays-Bas.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILLIAM_OF_ORANGE_CHAPTER_HISTORY_PARA_2" Language="fr_FR">
-			<Text>Ã€ l'origine membre de l'entourage de Charles Quint et fidÃ¨le partisan des Habsbourg, Guillaume d'Orange est surtout connu pour avoir Ã©tÃ© l'initiateur et le chef de la rÃ©volte des Pays-Bas espagnols contre le roi d'Espagne Philippe II, fils de Charles Quint. Cette rÃ©volte entraÃ®na une volontÃ© d'Ã©mancipation des Ã‰tats gÃ©nÃ©raux (gouvernement) qui conduisit Ã  l'indÃ©pendance des Pays-Bas du Nord, Provinces-Unies, alors que les Pays-Bas du Sud, la Belgica Regia, retombaient sous la domination espagnole aprÃ¨s la guerre de Quatre-Vingts Ans.</Text>
+			<Text>À l'origine membre de l'entourage de Charles Quint et fidèle partisan des Habsbourg, Guillaume d'Orange est surtout connu pour avoir été l'initiateur et le chef de la révolte des Pays-Bas espagnols contre le roi d'Espagne Philippe II, fils de Charles Quint. Cette révolte entraîna une volonté d'émancipation des États généraux (gouvernement) qui conduisit à l'indépendance des Pays-Bas du Nord, Provinces-Unies, alors que les Pays-Bas du Sud, la Belgica Regia, retombaient sous la domination espagnole après la guerre de Quatre-Vingts Ans.</Text>
 		</Row>
 
 		<!--Diplomacy french-->
 		<!--FIRST MEET french-->
 		<!--First AI line french-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Je suis Guillaume d'Orange, prince des Pays-Bas. Vous aviez besoin de quelque chose ? Je suis assez occupÃ©.</Text>
+			<Text>Je suis Guillaume d'Orange, prince des Pays-Bas. Vous aviez besoin de quelque chose ? Je suis assez occupé.</Text>
 		</Row>
 		<!--AI invitation to visit nearby City french-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Bienvenue Ã  la cour de Guillaume d'Orange, pÃ¨re des Pays-Bas. Ne restez pas lÃ  les bras ballants... Que voulez-vousÂ ?</Text>
+			<Text>Bienvenue à la cour de Guillaume d'Orange, père des Pays-Bas. Ne restez pas là les bras ballants... Que voulez-vous ?</Text>
 		</Row>
 		<!--AI accepts Human invitation french-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
@@ -267,7 +267,7 @@
 		</Row>
 		<!--AI invitation to exchange Capital Information french -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>J'aime voyager et je visiterai peut-Ãªtre un jour votre capitale. Est-elle loin d'iciÂ ? Que pouvez-vous m'en direÂ ?</Text>
+			<Text>J'aime voyager et je visiterai peut-être un jour votre capitale. Est-elle loin d'ici ? Que pouvez-vous m'en dire ?</Text>
 		</Row>
 		<!--GREETINGS french-->
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
@@ -284,33 +284,33 @@
 		</Row>
 		<!--AI Requests french-->
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Je vous envoie une dÃ©lÃ©gation commerciale avec des cadeaux de mon paysÂ : des tulipes, des petits moulins et de quoi fumer.</Text>
+			<Text>Je vous envoie une délégation commerciale avec des cadeaux de mon pays : des tulipes, des petits moulins et de quoi fumer.</Text>
 		</Row>
 		<!--OPEN BORDERS french-->
 		<!--AI accepts from human french-->
 		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>C'est avec plaisir que nous ouvrons nos frontiÃ¨res Ã  vos unitÃ©s.</Text>
+			<Text>C'est avec plaisir que nous ouvrons nos frontières à vos unités.</Text>
 		</Row>
 		<!--AI rejects from human french-->
 		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Nous ne sommes pas intÃ©ressÃ©s pour l'instant.</Text>
+			<Text>Nous ne sommes pas intéressés pour l'instant.</Text>
 		</Row>
 		<!--AI requests from human french-->
 		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Permettrez-vous Ã  nos unitÃ©s de traverser votre territoire?</Text>
+			<Text>Permettrez-vous à nos unités de traverser votre territoire?</Text>
 		</Row>
 		<!--DECLARE FRIENDSHIP french-->
 		<!--AI accepts from human french-->
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>J'accepte votre offre d'amitiÃ©.</Text>
+			<Text>J'accepte votre offre d'amitié.</Text>
 		</Row>
 		<!--AI Rejects from human french-->
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Pas cette fois. Nous avons nous aussi des choses qui nous prÃ©occupent.</Text>
+			<Text>Pas cette fois. Nous avons nous aussi des choses qui nous préoccupent.</Text>
 		</Row>
 		<!--AI Requests friendship from human french-->
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Je pense que nos deux peuples pourraient tirer profit de cet arrangement. Acceptez-vous mon amitiÃ©Â ?</Text>
+			<Text>Je pense que nos deux peuples pourraient tirer profit de cet arrangement. Acceptez-vous mon amitié ?</Text>
 		</Row>
 		<!--Human accepts AI requests, AI responds french-->
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
@@ -328,15 +328,15 @@
 		<!--KUDOS & WARNINGS french-->
 		<!--AI Kudos-->
 		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Une Ã©conomie florissante? Cela peut toujours servir figurez-vous!</Text>
+			<Text>Une économie florissante? Cela peut toujours servir figurez-vous!</Text>
 		</Row>
 		<!--AI Warnings french-->
 		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Vous semblez connaÃ®tre quelques difficultÃ©s, non?</Text>
+			<Text>Vous semblez connaître quelques difficultés, non?</Text>
 		</Row>
 		<!--AI warns player for border troops french-->
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Veuillez retirer vos troupes de mes frontiÃ¨res. Elles empÃ¨chent nos marchands de circuler.</Text>
+			<Text>Veuillez retirer vos troupes de mes frontières. Elles empèchent nos marchands de circuler.</Text>
 		</Row>
 		<!--TRADE french-->
 		<!--AI Accepts Deal french-->
@@ -350,20 +350,20 @@
 		<!--DENOUNCE french-->
 		<!--From Human french-->
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Vous savez bien ce qui nous a conduits Ã  cette... fÃ¢cheuse tournure des Ã©vÃ©nements.</Text>
+			<Text>Vous savez bien ce qui nous a conduits à cette... fâcheuse tournure des événements.</Text>
 		</Row>
 		<!--From AI french-->
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Ce mÃ©pris total pour toute vie humaine ne sera pas tolÃ©rÃ©. (DÃ©nonciation)</Text>
+			<Text>Ce mépris total pour toute vie humaine ne sera pas toléré. (Dénonciation)</Text>
 		</Row>
 		<!--DECLARE WAR french-->
 		<!--Human Declares War french-->
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Vous avez prouvÃ© que vous Ã©tiez un dirigeant inapte, et je ne peux plus supporter les cris de votre peuple. Il sera libÃ©rÃ© de votre tyrannie.</Text>
+			<Text>Vous avez prouvé que vous étiez un dirigeant inapte, et je ne peux plus supporter les cris de votre peuple. Il sera libéré de votre tyrannie.</Text>
 		</Row>
 		<!--AI Declares War french-->
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Bien que je dÃ©teste la guerre, je considÃ¨re que dÃ©barrasser le monde de votre prÃ©sence est un service rendu Ã  l'humanitÃ© entiÃ¨re.</Text>
+			<Text>Bien que je déteste la guerre, je considère que débarrasser le monde de votre présence est un service rendu à l'humanité entière.</Text>
 		</Row>
 		<!--MAKE PEACE french-->
 		<!--AI accepts from human french-->
@@ -381,7 +381,7 @@
 		<!--DEFEAT french-->
 		<!--AI is Defeated french-->
 		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
-			<Text>Peut-Ãªtre que c'est mieux ainsi... Maintenant, au moins, je n'aurai pas Ã  vous regarder dÃ©truire ma nation bien-aimÃ©e.</Text>
+			<Text>Peut-être que c'est mieux ainsi... Maintenant, au moins, je n'aurai pas à vous regarder détruire ma nation bien-aimée.</Text>
 		</Row>
 		<!--Human is Defeated (will see this in hotseat) french-->
 		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_WILLIAM_OF_ORANGE_ANY" Language="fr_FR">
